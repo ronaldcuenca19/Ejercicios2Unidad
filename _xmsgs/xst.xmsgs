@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3498" delta="new" >No primary, secondary unit in the file &quot;<arg fmt="%s" index="1">D:/ejercicios2U/Flip-Flop_JK.vhd</arg>. Ignore this file from project file &quot;<arg fmt="%s" index="2">D:/ejercicios2U/Flip_vhdl.prj</arg>&quot;.
+</msg>
+
+<msg type="error" file="Xst" num="2472" delta="new" >Top module &lt;<arg fmt="%s" index="1">Flip</arg>&gt; was not found.
+</msg>
+
+<msg type="error" file="Xst" num="2469" delta="new" >Please specify the correct library via the -work_lib switch.
+</msg>
+
+</messages>
+

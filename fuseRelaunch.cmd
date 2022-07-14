@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/ejercicios2U/EjerciciosMemorias_isim_beh.exe" -prj "D:/ejercicios2U/EjerciciosMemorias_beh.prj" "work.EjerciciosMemorias" 

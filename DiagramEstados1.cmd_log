@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "D:/ejercicios2U/DiagramEstados1.xst" -ofn "D:/ejercicios2U/DiagramEstados1.syr" 

@@ -1,0 +1,2 @@
+vhdl isim_temp "sistemaSecuencial3.vhd"
+vhdl isim_temp "TB_sistemaSecuencial3.vhd"

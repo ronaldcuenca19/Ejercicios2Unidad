@@ -1,0 +1,5 @@
+set -tmpdir "D:/ejercicios2U/xst/projnav.tmp"
+set -xsthdpdir "D:/ejercicios2U/xst"
+elaborate
+-ifn contador1_7.prj
+-ifmt mixed

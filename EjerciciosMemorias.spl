@@ -1,0 +1,10 @@
+[Inputs]
+clk
+rst
+=D[0:3]=
+=S[0:1]=
+[Outputs]
+L
+R
+=Q[0:3]=
+[BiDir]

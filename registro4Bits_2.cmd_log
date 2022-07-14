@@ -1,0 +1,1 @@
+vhdtdtfi -prj ejercicios2U -o D:/ejercicios2U/registro4Bits_2.vhi -module registro4Bits_2 -template D:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work registro4Bits_2.vhd 

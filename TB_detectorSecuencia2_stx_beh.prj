@@ -1,0 +1,2 @@
+vhdl isim_temp "detectorSecuencia2.vhd"
+vhdl isim_temp "TB_detectorSecuencia2.vhd"

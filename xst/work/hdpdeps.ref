@@ -1,0 +1,102 @@
+V3 60
+FL D:/ejercicios2U/contador1_7.vhd 2022/07/11.19:49:32 P.20131013
+EN work/contador1_7 1657586974 FL D:/ejercicios2U/contador1_7.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contador1_7/Behavioral 1657586975 \
+      FL D:/ejercicios2U/contador1_7.vhd EN work/contador1_7 1657586974
+FL D:/ejercicios2U/ContadorCero99.vhd 2022/07/13.15:25:06 P.20131013
+EN work/ContadorCero99 1657743909 FL D:/ejercicios2U/ContadorCero99.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ContadorCero99/Behavioral 1657743910 \
+      FL D:/ejercicios2U/ContadorCero99.vhd EN work/ContadorCero99 1657743909
+FL D:/ejercicios2U/contASC_DESC.vhd 2022/07/13.15:38:06 P.20131013
+EN work/contASC_DESC 1657744688 FL D:/ejercicios2U/contASC_DESC.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contASC_DESC/Behavioral 1657744689 \
+      FL D:/ejercicios2U/contASC_DESC.vhd EN work/contASC_DESC 1657744688
+FL D:/ejercicios2U/contCeroNueve.vhd 2022/07/11.20:14:48 P.20131013
+EN work/contCeroNueve 1657588498 FL D:/ejercicios2U/contCeroNueve.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contCeroNueve/Behavioral 1657588499 \
+      FL D:/ejercicios2U/contCeroNueve.vhd EN work/contCeroNueve 1657588498
+FL D:/ejercicios2U/contPseudoAleatorios.vhd 2022/07/13.18:24:50 P.20131013
+EN work/contPseudoAleatorios 1657754714 \
+      FL D:/ejercicios2U/contPseudoAleatorios.vhd PB ieee/std_logic_1164 1381692176
+AR work/contPseudoAleatorios/Behavioral 1657754715 \
+      FL D:/ejercicios2U/contPseudoAleatorios.vhd EN work/contPseudoAleatorios 1657754714
+FL D:/ejercicios2U/contUnoQuince.vhd 2022/07/11.20:10:30 P.20131013
+EN work/contUnoQuince 1657588237 FL D:/ejercicios2U/contUnoQuince.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contUnoQuince/Behavioral 1657588238 \
+      FL D:/ejercicios2U/contUnoQuince.vhd EN work/contUnoQuince 1657588237
+FL D:/ejercicios2U/cont_UnoCinco.vhd 2022/07/11.19:46:35 P.20131013
+EN work/cont_UnoCinco 1657586796 FL D:/ejercicios2U/cont_UnoCinco.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/cont_UnoCinco/Behavioral 1657586797 \
+      FL D:/ejercicios2U/cont_UnoCinco.vhd EN work/cont_UnoCinco 1657586796
+FL D:/ejercicios2U/cronometro245.vhd 2022/07/11.20:52:49 P.20131013
+EN work/cronometro245 1657590771 FL D:/ejercicios2U/cronometro245.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/cronometro245/Behavioral 1657590772 \
+      FL D:/ejercicios2U/cronometro245.vhd EN work/cronometro245 1657590771
+FL D:/ejercicios2U/detectorSecuencia1.vhd 2022/07/13.17:57:50 P.20131013
+EN work/detectorSecuencia1 1657753073 FL D:/ejercicios2U/detectorSecuencia1.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/detectorSecuencia1/Behavioral 1657753074 \
+      FL D:/ejercicios2U/detectorSecuencia1.vhd EN work/detectorSecuencia1 1657753073
+FL D:/ejercicios2U/detectorSecuencia2.vhd 2022/07/13.18:02:42 P.20131013
+EN work/detectorSecuencia2 1657753367 FL D:/ejercicios2U/detectorSecuencia2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/detectorSecuencia2/Behavioral 1657753368 \
+      FL D:/ejercicios2U/detectorSecuencia2.vhd EN work/detectorSecuencia2 1657753367
+FL D:/ejercicios2U/DiagramEstados1.vhd 2022/07/12.17:59:00 P.20131013
+EN work/DiagramEstados1 1657666758 FL D:/ejercicios2U/DiagramEstados1.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/DiagramEstados1/Behavioral 1657666759 \
+      FL D:/ejercicios2U/DiagramEstados1.vhd EN work/DiagramEstados1 1657666758
+FL D:/ejercicios2U/DiagramEstados2.vhd 2022/07/12.18:31:23 P.20131013
+EN work/DiagramEstados2 1657668687 FL D:/ejercicios2U/DiagramEstados2.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/DiagramEstados2/Behavioral 1657668688 \
+      FL D:/ejercicios2U/DiagramEstados2.vhd EN work/DiagramEstados2 1657668687
+FL D:/ejercicios2U/FlipFlop_JK.vhd 2022/07/13.18:48:44 P.20131013
+EN work/FlipFlop_JK 1657756132 FL D:/ejercicios2U/FlipFlop_JK.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FlipFlop_JK/Behavioral 1657756133 \
+      FL D:/ejercicios2U/FlipFlop_JK.vhd EN work/FlipFlop_JK 1657756132
+FL D:/ejercicios2U/FlipFlop_T.vhd 2022/07/13.18:51:25 P.20131013
+EN work/FlipFlop_T 1657756305 FL D:/ejercicios2U/FlipFlop_T.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FlipFlop_T/Behavioral 1657756306 \
+      FL D:/ejercicios2U/FlipFlop_T.vhd EN work/FlipFlop_T 1657756305
+FL D:/ejercicios2U/registro4Bits.vhd 2022/07/03.01:29:44 P.20131013
+EN work/EjerciciosMemorias 1656865585 FL D:/ejercicios2U/registro4Bits.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/EjerciciosMemorias/Behavioral 1656865586 \
+      FL D:/ejercicios2U/registro4Bits.vhd EN work/EjerciciosMemorias 1656865585
+FL D:/ejercicios2U/registro4Bits_2.vhd 2022/07/03.11:45:05 P.20131013
+EN work/registro4Bits_2 1656866719 FL D:/ejercicios2U/registro4Bits_2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/registro4Bits_2/Behavioral 1656866720 \
+      FL D:/ejercicios2U/registro4Bits_2.vhd EN work/registro4Bits_2 1656866719
+FL D:/ejercicios2U/registro4Bits_Semaforo.vhd 2022/07/13.14:55:41 P.20131013
+EN work/registro4Bits_Semaforo 1657742426 \
+      FL D:/ejercicios2U/registro4Bits_Semaforo.vhd PB ieee/std_logic_1164 1381692176
+AR work/registro4Bits_Semaforo/Behavioral 1657742427 \
+      FL D:/ejercicios2U/registro4Bits_Semaforo.vhd \
+      EN work/registro4Bits_Semaforo 1657742426
+FL D:/ejercicios2U/Semaforo3_15.vhd 2022/07/13.17:45:48 P.20131013
+EN work/Semaforo3_15 1657752353 FL D:/ejercicios2U/Semaforo3_15.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Semaforo3_15/Behavioral 1657752354 \
+      FL D:/ejercicios2U/Semaforo3_15.vhd EN work/Semaforo3_15 1657752353
+FL D:/ejercicios2U/sistemaSecuencial.vhd 2022/07/13.18:06:16 P.20131013
+EN work/sistemaSecuencial 1657753588 FL D:/ejercicios2U/sistemaSecuencial.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/sistemaSecuencial/Behavioral 1657753589 \
+      FL D:/ejercicios2U/sistemaSecuencial.vhd EN work/sistemaSecuencial 1657753588
+FL D:/ejercicios2U/sistemaSecuencial3.vhd 2022/07/13.18:32:33 P.20131013
+EN work/sistemaSecuencial3 1657755159 FL D:/ejercicios2U/sistemaSecuencial3.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/sistemaSecuencial3/Behavioral 1657755160 \
+      FL D:/ejercicios2U/sistemaSecuencial3.vhd EN work/sistemaSecuencial3 1657755159

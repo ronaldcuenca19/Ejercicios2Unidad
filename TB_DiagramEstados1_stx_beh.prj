@@ -1,0 +1,2 @@
+vhdl isim_temp "DiagramEstados1.vhd"
+vhdl isim_temp "TB_DiagramEstados1.vhd"

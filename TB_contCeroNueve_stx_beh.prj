@@ -1,0 +1,2 @@
+vhdl isim_temp "contCeroNueve.vhd"
+vhdl isim_temp "TB_contCeroNueve.vhd"
